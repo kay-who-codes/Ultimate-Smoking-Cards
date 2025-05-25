@@ -15,7 +15,7 @@
     }
     
     .header-link {
-      color: #4e4e4e;
+      color: #507944;
       font-size: 20px;
       text-decoration: none;
       font-weight: bold;
@@ -23,7 +23,7 @@
     }
 
     .header-link:hover {
-      color: #757575;
+      color: #57864a;
     }
 
     /* Dropdown menu styles */
@@ -32,7 +32,7 @@
     }
 
     .dropbtn {
-      background-color: #505050ec;
+      background-color: #294425ed;
       color: white;
       padding: 8px 16px;
       border: none;
@@ -43,7 +43,7 @@
     }
 
     .dropbtn:hover {
-      background-color: #333;
+      background-color: #162414ed;
     }
 
     .dropdown-content {
