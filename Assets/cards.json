@@ -1,0 +1,1242 @@
+[
+    {
+        "Category": "Challenge",
+        "Rule": "Act out a scene from a movie. First player to guess the movie correctly picks someone to smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Answer a \"would you rather\" question or smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Flip a coin. If it’s heads, you smoke. If it’s tails, everyone else smokes.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Give a confession or smoke. If the group doubt the sincerity of the confession, take three smokes.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Hum a song of your choice. First player to guess correctly picks someone to smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Pick a player and start a staring contest. Loser smokes.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Pick a player to play rock, paper, scissors with. Loser smokes.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Imitate a celebrity or take 2 smokes.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Pick a superhero and act out this superhero without talking. First player to guess correctly picks someone to smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Pick an animal and act out this animal without talking. First player to guess correctly picks someone to smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Pick someone and guess the colour of their underwear. If you're right, they smoke. If you're wrong, you smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Pick someone to play a game of thumb war. Loser smokes.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Say the kinkiest thing you've done or smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Do 13 pushups or take 2 smokes.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Show everyone the last five photos on your phone or smoke twice.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Tell a joke. Whoever laughs smokes. If no one chuckles or laughs, you smoke twice.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "The player after you can ask you any question. You can either answer truthfully or refuse to answer and smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "The player after you can dare you to do anything. You can either fulfil the dare or refuse the dare and smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Without touching anything, everyone must balance on one leg. First player to lose balance smokes.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "All players must only speak with one or two-syllable words until someone messes up. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Ask another player a true or false question about yourself. If they answer correctly you smoke, otherwise they smoke.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Everyone guesses what time it is without looking. Whoever is furthest off, smoke.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Everyone must speak in third player until someone messes up. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Imitate another player. First player to guess correctly picks someone to smoke.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Make any action, the next player repeats all previous actions and adds another. Continue on until someone messes up. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "On the count of three, start a group staring contest. Last player to blink picks someone to smoke.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Pick a word. Everyone takes turns saying a word that relates to the previous word. The player that hesitates or says a non-relating word smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Pick a word. Everyone takes turns saying a word that rhymes with it. The player that hesitates or repeats a word smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Pick someone and guess the colour of their underwear. If you guess correctly, they smoke, otherwise you smoke.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Pick two people to perform a dance move of your choice. You pick the worst performer to smoke.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Starting with you, take turns naming a colour. Continue until someone hesitates or repeats a colour. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Starting with you, take turns naming a country. Continue until someone hesitates or repeats a country. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Starting with you, take turns naming a fruit. Continue until someone hesitates or repeats a fruit. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Starting with you, take turns naming a land animal. Continue until someone hesitates or repeats. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Starting with you, take turns naming a spice. Continue until someone hesitates or repeats a word. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Starting with you, take turns naming an insect. Continue until someone hesitates or repeats. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Starting with you, take turns naming an ocean animal. Continue until someone hesitates or repeats a word. That player smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Tell two truths and a lie. Everyone can answer and if the first answer is correct, you smoke. Otherwise the player who guessed incorrectly smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Waterfall! Start smokeing and everyone else must smoke as long as you do.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "You are Simon. Everyone plays Simon Says. First player that messes up smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone democratically votes for a player to smoke.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is most likely to spend money on something stupid. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the biggest d**k. That player smokes two smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the most likely to argue with a stranger. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the most likely to be in bed by 10 pm. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the most likely to dodge paying for smokes. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the most likely to get arrested. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the most likely to get thrown out of a bar. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the most likely to have a one-night stand. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the most likely to spend all their money on something stupid. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Everyone votes on who is the nicest. That player picks someone to smoke.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "After this card is read, everyone must play in silence until it is your turn again. First player to laugh or talk smokes and ends the silence.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "Keep your eyes closed until it’s your turn again. If you open your eyes, smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "Make a rule for another player to follow until it is your turn again. Everyone who breaks the rule has to smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "The player farthest from you makes a rule for you to follow until it is your turn again. Everyone, smoke if you break the rule.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "Make a rule that everyone has to follow until it is your turn again. Everyone who breaks the rule has to smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "Talk with an accent until your next turn. If caught not speaking in the accent, you smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "Whoever drank in the last round gets to pick two people to smoke (they may pick the same player twice).",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "No laughing until it’s your turn again. If you do, smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "No eye contact with anyone until it’s your turn again. If you do, you smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Smoke! Smoke! Smoke! Everybody smokes!",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Everyone except you smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "The player after you smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "The player before you smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take three smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "All men smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "All women smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Take a smoke if you've ever been on TV.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone smokes for every sibling they have.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player who has travelled the furthest away this year smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you're afraid of spiders.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you like pineapple on pizza",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Whoever has been unemployed the longest, take 2 smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you're unemployed.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you've been in a motor accident.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you've broke a bone.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you currently have dye in your hair.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you're wearing a belt.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you're wearing black.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you've ever eaten from a bin.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if your birthday was in the last 6 months.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if your birthday is in the next 6 months.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you're wearing white.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you've ever spent over £1,000 in a day.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone born in the same month as you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone born in the same month as you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone in a relationship smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone left-handed smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone of the opposite sex smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone older than you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone younger than you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone shorter than you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone wearing a top with buttons smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone wearing a watch smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone wearing glasses smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone wearing jeans smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone wearing the same colour top as you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who has a dietary restriction smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who is shorter than you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who is single smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who is single smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who is taller than you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who is taller than you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with an Apple phone, take a smoke. Everyone with an Android phone, take two smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with facial hair smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with longer hair than you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with tattoos, smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with the letter \"A\" in their first name smokes twice.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, smoke if you’ve ever faked an orgasm.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "If your age is an even number, smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The oldest player take a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "On the count of three, everyone holds up either a thumbs up or a thumbs down. Whoever does the opposite of you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone take a smoke for every pet you have.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "On the count of three, everyone says a colour from the rainbow. Whoever says the same colour as you has to smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "players who use spotify smoke, players who use apple music take two smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Take a smoke with the player you've known the longest.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player farthest from you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player nearest to you smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player who is the most depressed picks two other people to smoke (you can pick the same player twice).",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player who most recently posted on social media smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player who most recently used the bathroom smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the biggest ears smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the biggest hands picks someone to smoke, and takes two smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the largest shoe size smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the longest first name smokes. If there’s a tie you both smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the most smoke in their vessel smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the least smoke in their vessel smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the shortest last name smokes. If there is a tie you both smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the least battery left in their phone takes two smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The players to either side of you smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone wearing a hat smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The youngest player takes a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Take a number of smokes - from 0 to 3 - to reflect your degree of superstitiousness",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, take a smoke if you're dyslexic.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "If you haven't had a smoke yet, take 3 BIG smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Vote",
+        "Rule": "Pick a player to smoke.",
+        "Colour": "Tan"
+    },
+    {
+        "Category": "Vote",
+        "Rule": "Tell the sexiest player to take a smoke.",
+        "Colour": "Tan"
+    },
+    {
+        "Category": "Vote",
+        "Rule": "Vote on who the funniest player, they pick someone to smoke.",
+        "Colour": "Tan"
+    },
+    {
+        "Category": "Permanent Rule",
+        "Rule": "Make a new rule for the rest of the game. If most players object, take 2 smokes. Rule-break = smoke.",
+        "Colour": "dodgerblue"
+    },
+    {
+        "Category": "Permanent Rule",
+        "Rule": "Swap player turn order!",
+        "Colour": "dodgerblue"
+    },
+    {
+        "Category": "No Smoke",
+        "Rule": "No smokes this turn.",
+        "Colour": "Grey"
+    },
+    {
+        "Category": "No Smoke",
+        "Rule": "No smokes allowed until the next game-mandated smoke.",
+        "Colour": "Grey"
+    },
+    {
+        "Category": "No Smoke",
+        "Rule": "Switch places with someone across from you.",
+        "Colour": "Grey"
+    },
+    {
+        "Category": "No Smoke",
+        "Rule": "Take a break (if you want).",
+        "Colour": "Grey"
+    },
+    {
+        "Category": "No Smoke",
+        "Rule": "Take a break (if you want).",
+        "Colour": "Grey"
+    },
+    {
+        "Category": "No Smoke",
+        "Rule": "Take a break (if you want).",
+        "Colour": "Grey"
+    },
+    {
+        "Category": "No Smoke",
+        "Rule": "Take a break (if you want).",
+        "Colour": "Grey"
+    },
+    {
+        "Category": "No Smoke",
+        "Rule": "Take a break (if you want).",
+        "Colour": "Grey"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "The player with the most battery left in their phone takes two smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with a middle name smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who has ever been on a boat smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you’ve ever fallen asleep in public.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you've ever had braces.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you’ve cried during a movie in the last year.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who currently has a nickname smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with an odd number of letters in their first name smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "If you can't whistle properly, take 2 smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you’ve ever had a speeding ticket.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who has more than one piercing smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who’s wearing socks with patterns smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you’ve ever worked in retail.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you've ever been fired from a job.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who’s been in a long-distance relationship smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Whoever has come closest to dying, take as many smokes as you like.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who has a first name starting with a vowel smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you’ve ever joined a gym and quit within six months.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who prefers tea over coffee smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you’ve ever lost your phone. If more than one player, cheers!",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who has run a marathon or done a major sporting event smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you’ve ever won a trophy or medal.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, if you have a gym membership, take a smoke (to good health!)",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, if you play a sport, take a smoke (to good health!)",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "All giants (over 6 ft, 2 in) take a smoke",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "All shorties (under 5 ft) take a smoke",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "If you bite your nails, take 2 smokes. If not, chose who takes 2 smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "If you've been arrested, take a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "Everyone speak in different accents for 1 round. Whoever fails smokes.",
+        "Colour": "SaddleBrown"
+    },
+    {
+        "Category": "Permanent Rule",
+        "Rule": "No more pointing. Pointing = smoke.",
+        "Colour": "dodgerblue"
+    },
+    {
+        "Category": "Permanent Rule",
+        "Rule": "Nickname Time! Everyone refers to eachother by nicknames. Fail = smoke.",
+        "Colour": "dodgerblue"
+    },
+    {
+        "Category": "Permanent Rule",
+        "Rule": "Opposite Hands! Use opposite hands to smoke. Fail = smoke.",
+        "Colour": "dodgerblue"
+    },
+    {
+        "Category": "Permanent Rule",
+        "Rule": "Ban a Word! This player bans a word. Speaking banned word = smoke.",
+        "Colour": "dodgerblue"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "Questions Only! Only ask questions until your turn again. Making a statement = smoke.",
+        "Colour": "SaddleBrown"
+    },
+    {
+        "Category": "Round-Based Rule",
+        "Rule": "Speak in Rhyme! Every sentence you say must rhyme until your turn again. Failure = smoke.",
+        "Colour": "SaddleBrown"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "On the count of three, everyone strikes a pose. Most boring pose (as judged by the group) smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Spell your surname backwards. Hesitate or mistake = smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Perform a monologue from a movie. First player to guess the movie picks someone to smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Show everyone your most recent browing history or finish your smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Challenge",
+        "Rule": "Recite the alphabet backwards or take a smoke.",
+        "Colour": "Red"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Smoke if you’ve ever had a near death experience.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Whoever shat most recently, take a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, take a smoke for every hour that's passed since you last urinated.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, take a smoke if you read product ingredient labels.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, take a smoke if your surname ends in an \"s\".",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, take a smoke if you play games on your phone.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Whoever put the most effort into their appearance, take 2 smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Whoever put the least effort into their appearance, take a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, take a smoke if you're wearing colourful socks.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with shorter hair than you takes a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who smokes tobacco takes a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Whoever has the highest qualification, take a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who's smoke is more potent (ABV%) than yours, take a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who's smoke is less potent (ABV%) than yours, take 2 smokes.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who has special dietary requirements, take a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone with a formal mental health diagnoses, take a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Anyone who's ever undergone surgery, take a smoke.",
+        "Colour": "DarkGreen"
+    },
+     {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone, take a smoke for each allergy you have.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Vote",
+        "Rule": "Everyone you point at takes a smoke.",
+        "Colour": "Tan"
+    },
+    {
+        "Category": "Vote",
+        "Rule": "If you want, assign someone who smokes for you this round.",
+        "Colour": "Tan"
+    },
+    {
+        "Category": "Group Challenge",
+        "Rule": "Set a timer for 4 minutes. Whoever's turn it is when it rings smokes.",
+        "Colour": "Purple"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Vote on who has the most different accent. They take a smoke.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone who has different hair colour from your takes a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Trait-Based Smoke",
+        "Rule": "Everyone whose birthday is this month takes a smoke.",
+        "Colour": "DarkGreen"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Vote on who is most likely to [insert scenario]. That player smokes.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "Vote on who has the worst outfit. That player takes a smoke.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Group Voting",
+        "Rule": "The group votes on who is the most likely to spill their smoke. They smoke.",
+        "Colour": "DarkOrange"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take a smoke.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take two smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take three smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take three smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take three smokes.",
+        "Colour": "Fuchsia"
+    },
+    {
+        "Category": "Smoke Time!",
+        "Rule": "Take three smokes.",
+        "Colour": "Fuchsia"
+    }
+]
