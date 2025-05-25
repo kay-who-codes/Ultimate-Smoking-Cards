@@ -108,7 +108,7 @@ body {
 .card {
   width: 300px;
   height: 400px;
-  background-color: #4b7d4b; /* Light sage green */
+  background-color: #67aa67; /* Light sage green */
   color: #172817; /* Dark green text */
   border-radius: 20px;
   display: flex;
@@ -144,7 +144,7 @@ body {
   font-size: 60px;
   font-weight: bold;
   text-align: left;
-  background-color: #4b7d4b; /* Light sage green */
+  background-color: #67aa67; /* Light sage green */
   color: #172817; /* Dark green text */
   transition: background-color 0.3s, color 0.3s;
 }
@@ -153,7 +153,7 @@ body {
   transform: rotateY(180deg);
   font-size: 24px;
   text-align: left;
-  background-color: #4b7d4b; /* Light sage green */
+  background-color: #67aa67; /* Light sage green */
   color: #172817; /* Dark green text */
   transition: background-color 0.3s, color 0.3s;
 }
