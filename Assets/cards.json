@@ -189,7 +189,9 @@
         "Rule": "Tell two truths and a lie. Everyone can answer and if the first answer is correct, you smoke. Otherwise the player who guessed incorrectly smokes.",
         "Colour": "Purple"
     },
-    {ckeing and everyone else must smoke as long as you do.",
+    {
+        "Category": "Group Challenge",
+        "Rule": "Start smoking. Everyone else must smoke as long as you smoke",
         "Colour": "Purple"
     },
     {
@@ -200,17 +202,17 @@
     {
         "Category": "Group Voting",
         "Rule": "Everyone democratically votes for a player to smoke.",
-        "Colour": ""
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is most likely to spend money on something stupid. That player smokes.",
-        "Colour": ""
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the biggest d**k. That player smokes two smokes.",
-        "Colour": ""
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
