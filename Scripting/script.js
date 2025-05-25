@@ -20,15 +20,15 @@ function generateCardContent(card) {
   
   return {
     content: `
-      <div class="instructionText" style="color: ${inverted ? "#e8d5f2" : "#2d4a2d"};">
+      <div class="instructionText" style="color: ${inverted ? "#e8d5f2" : "#172817"};">
         ${card.Rule}
       </div>
       <div class="categoryText" style="color: ${card.Colour};">
         ${card.Category}
       </div>
     `,
-    backgroundColor: inverted ? "#3d2952" : "#d4f1d4", // Purple or light green
-    textColor: inverted ? "#e8d5f2" : "#2d4a2d", // Light purple or dark green
+    backgroundColor: inverted ? "#3d2952" : "#4b7d4b", // Purple or light green
+    textColor: inverted ? "#e8d5f2" : "#172817", // Light purple or dark green
   };
 }
 
@@ -36,12 +36,12 @@ function generateCardContent(card) {
 function preloadNextCard() {
   if (cards.length === 0) {
     cardBack.innerHTML = `
-      <div class="instructionText" style="color: #2d4a2d;">
+      <div class="instructionText" style="color: #172817;">
         No more cards!
       </div>
     `;
-    cardBack.style.backgroundColor = "#d4f1d4"; // Light green
-    cardBack.style.color = "#2d4a2d"; // Dark green
+    cardBack.style.backgroundColor = "#4b7d4b"; // Light green
+    cardBack.style.color = "#172817"; // Dark green
     return;
   }
 
@@ -60,12 +60,12 @@ function preloadNextCard() {
 function applyPreloadedContent(isFront = true) {
   if (isFront) {
     cardFront.innerHTML = cardBack.dataset.content || "";
-    cardFront.style.backgroundColor = cardBack.dataset.backgroundColor || "#d4f1d4";
-    cardFront.style.color = cardBack.dataset.textColor || "#2d4a2d";
+    cardFront.style.backgroundColor = cardBack.dataset.backgroundColor || "#4b7d4b";
+    cardFront.style.color = cardBack.dataset.textColor || "#172817";
   } else {
     cardBack.innerHTML = cardBack.dataset.content || "";
-    cardBack.style.backgroundColor = cardBack.dataset.backgroundColor || "#d4f1d4";
-    cardBack.style.color = cardBack.dataset.textColor || "#2d4a2d";
+    cardBack.style.backgroundColor = cardBack.dataset.backgroundColor || "#4b7d4b";
+    cardBack.style.color = cardBack.dataset.textColor || "#172817";
   }
 
   // Apply Category Text Colour after half of the flip animation
