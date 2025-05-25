@@ -1,14 +1,14 @@
-# Ultimate Drinking Cards
+# Ultimate Smoking Cards
 
-Play the ULTIMATE card-based drinking game in your browser.
+Play the ULTIMATE card-based smoking game in your browser.
 
-Open the app in a browser - **[LINK TO THE APP](https://kay-who-codes.github.io/Ultimate-Drinking-Cards)**.
+Open the app in a browser - **[LINK TO THE APP](https://kay-who-codes.github.io/Ultimate-Smoking-Cards)**.
 
-[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Ultimate-Drinking-Cards)
+[![App Image](Non-App/App%20Image.png)](https://kay-who-codes.github.io/Ultimate-Smoking-Cards)
 
 ## Features
 
-- Interactive and fun card-based drinking game.
+- Interactive and fun card-based smoking game.
 - Easy to use interface.
 - Optimized for both desktop and mobile browsers.
 - Dark mode for a better gameplay experience at night.
