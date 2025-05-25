@@ -189,9 +189,7 @@
         "Rule": "Tell two truths and a lie. Everyone can answer and if the first answer is correct, you smoke. Otherwise the player who guessed incorrectly smokes.",
         "Colour": "Purple"
     },
-    {
-        "Category": "Group Challenge",
-        "Rule": "Waterfall! Start smokeing and everyone else must smoke as long as you do.",
+    {ckeing and everyone else must smoke as long as you do.",
         "Colour": "Purple"
     },
     {
@@ -202,57 +200,57 @@
     {
         "Category": "Group Voting",
         "Rule": "Everyone democratically votes for a player to smoke.",
-        "Colour": "DarkOrange"
+        "Colour": ""
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is most likely to spend money on something stupid. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": ""
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the biggest d**k. That player smokes two smokes.",
-        "Colour": "DarkOrange"
+        "Colour": ""
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the most likely to argue with a stranger. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the most likely to be in bed by 10 pm. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the most likely to dodge paying for smokes. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the most likely to get arrested. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the most likely to get thrown out of a bar. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the most likely to have a one-night stand. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the most likely to spend all their money on something stupid. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Everyone votes on who is the nicest. That player picks someone to smoke.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Round-Based Rule",
@@ -302,37 +300,37 @@
     {
         "Category": "Smoke Time!",
         "Rule": "Smoke! Smoke! Smoke! Everybody smokes!",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Everyone except you smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "The player after you smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "The player before you smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take three smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Trait-Based Smoke",
@@ -687,27 +685,27 @@
     {
         "Category": "Vote",
         "Rule": "Pick a player to smoke.",
-        "Colour": "Tan"
+        "Colour": "#ffcd8b"
     },
     {
         "Category": "Vote",
         "Rule": "Tell the sexiest player to take a smoke.",
-        "Colour": "Tan"
+        "Colour": "#ffcd8b"
     },
     {
         "Category": "Vote",
         "Rule": "Vote on who the funniest player, they pick someone to smoke.",
-        "Colour": "Tan"
+        "Colour": "#ffcd8b"
     },
     {
         "Category": "Permanent Rule",
         "Rule": "Make a new rule for the rest of the game. If most players object, take 2 smokes. Rule-break = smoke.",
-        "Colour": "dodgerblue"
+        "Colour": "#004f9b"
     },
     {
         "Category": "Permanent Rule",
         "Rule": "Swap player turn order!",
-        "Colour": "dodgerblue"
+        "Colour": "#004f9b"
     },
     {
         "Category": "No Smoke",
@@ -897,22 +895,22 @@
     {
         "Category": "Permanent Rule",
         "Rule": "No more pointing. Pointing = smoke.",
-        "Colour": "dodgerblue"
+        "Colour": "#004f9b"
     },
     {
         "Category": "Permanent Rule",
         "Rule": "Nickname Time! Everyone refers to eachother by nicknames. Fail = smoke.",
-        "Colour": "dodgerblue"
+        "Colour": "#004f9b"
     },
     {
         "Category": "Permanent Rule",
         "Rule": "Opposite Hands! Use opposite hands to smoke. Fail = smoke.",
-        "Colour": "dodgerblue"
+        "Colour": "#004f9b"
     },
     {
         "Category": "Permanent Rule",
         "Rule": "Ban a Word! This player bans a word. Speaking banned word = smoke.",
-        "Colour": "dodgerblue"
+        "Colour": "#004f9b"
     },
     {
         "Category": "Round-Based Rule",
@@ -1042,12 +1040,12 @@
     {
         "Category": "Vote",
         "Rule": "Everyone you point at takes a smoke.",
-        "Colour": "Tan"
+        "Colour": "#ffcd8b"
     },
     {
         "Category": "Vote",
         "Rule": "If you want, assign someone who smokes for you this round.",
-        "Colour": "Tan"
+        "Colour": "#ffcd8b"
     },
     {
         "Category": "Group Challenge",
@@ -1057,7 +1055,7 @@
     {
         "Category": "Group Voting",
         "Rule": "Vote on who has the most different accent. They take a smoke.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Trait-Based Smoke",
@@ -1072,171 +1070,171 @@
     {
         "Category": "Group Voting",
         "Rule": "Vote on who is most likely to [insert scenario]. That player smokes.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "Vote on who has the worst outfit. That player takes a smoke.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Group Voting",
         "Rule": "The group votes on who is the most likely to spill their smoke. They smoke.",
-        "Colour": "DarkOrange"
+        "Colour": "#975505"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take a smoke.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take two smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take three smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take three smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take three smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     },
     {
         "Category": "Smoke Time!",
         "Rule": "Take three smokes.",
-        "Colour": "Fuchsia"
+        "Colour": "#b300b3"
     }
 ]
