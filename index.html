@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🍁 Ultimate Smoking Cards</title>
+<!-- Linking multiple CSS files -->
+<link rel="stylesheet" href="Styling/style.css">
+<link rel="stylesheet" href="Styling/header.css">
+</head>
+<body>
+<!-- Header Bar -->
+<div id="header"></div>
+
+<!-- Main Content -->
+  <div id="app">
+    <div class="card" id="coverCard">
+      <div class="card-front">Ultimate Smoking Cards</div>
+      <div class="card-back"></div>
+    </div>
+    <button id="resetButton" hidden>Refresh</button>
+  </div>
+
+  <!-- Container for the 'Show Rules' button placed at the bottom -->
+  <div id="rulesButtonContainer">
+    <a href="#" id="showRulesLink">View Game Rules</a>
+  </div>
+
+  <!-- Modal for displaying rules -->
+  <div id="rulesModal" class="modal">
+    <div class="modal-content">
+      <div id="rulesText"></div>
+      <button id="closeRulesButton">Close Rules</button>
+    </div>
+  </div>
+
+  <!-- Footer with the credit link -->
+  <footer id="footer">
+    Made by <a href="https://linktr.ee/kaywhocreates" target="_blank" rel="noopener noreferrer">Kay 🧡</a>
+  </footer>
+  
+  <script src="Scripting/script.js" defer></script>
+  <script src="Scripting/header.js" defer></script>  
+</body>
+</html>

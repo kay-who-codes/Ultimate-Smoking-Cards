@@ -1,0 +1,11 @@
+App Update: 1
+Date of Update: 13 Dec 2024 @ 18:17
+Details: Finally finished after 24h
+
+App Update: 2
+Date of Update: 13 Dec 2024 @ 19:17
+Details: Embedded rules within .js
+
+App Update: 3
+Date of Update: 25 May @ 10:30
+Details: Created Smoking version
