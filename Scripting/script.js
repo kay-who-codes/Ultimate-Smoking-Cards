@@ -27,7 +27,7 @@ function generateCardContent(card) {
         ${card.Category}
       </div>
     `,
-    backgroundColor: inverted ? "#3d2952" : "#4b7d4b", // Purple or light green
+    backgroundColor: inverted ? "#3d2952" : "#67aa67", // Purple or light green
     textColor: inverted ? "#e8d5f2" : "#172817", // Light purple or dark green
   };
 }
@@ -40,7 +40,7 @@ function preloadNextCard() {
         No more cards!
       </div>
     `;
-    cardBack.style.backgroundColor = "#4b7d4b"; // Light green
+    cardBack.style.backgroundColor = "#67aa67"; // Light green
     cardBack.style.color = "#172817"; // Dark green
     return;
   }
@@ -60,11 +60,11 @@ function preloadNextCard() {
 function applyPreloadedContent(isFront = true) {
   if (isFront) {
     cardFront.innerHTML = cardBack.dataset.content || "";
-    cardFront.style.backgroundColor = cardBack.dataset.backgroundColor || "#4b7d4b";
+    cardFront.style.backgroundColor = cardBack.dataset.backgroundColor || "#67aa67";
     cardFront.style.color = cardBack.dataset.textColor || "#172817";
   } else {
     cardBack.innerHTML = cardBack.dataset.content || "";
-    cardBack.style.backgroundColor = cardBack.dataset.backgroundColor || "#4b7d4b";
+    cardBack.style.backgroundColor = cardBack.dataset.backgroundColor || "#67aa67";
     cardBack.style.color = cardBack.dataset.textColor || "#172817";
   }
 
